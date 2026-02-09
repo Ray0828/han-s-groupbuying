@@ -1,0 +1,27 @@
+{
+  "name": "團購小幫手",
+  "short_name": "團購表",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#0f766e",
+  "description": "離線團購管理工具",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/lucide-static@0.344.0/icons/shopping-bag.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "https://placehold.co/192x192/0f766e/ffffff.png?text=App",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/0f766e/ffffff.png?text=App",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
